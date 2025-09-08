@@ -1,4 +1,4 @@
-# AI-RESUME-ANALYZER
+<h1 align="center">AI Resume Analyzer</h1>
 
 _Transform Resumes, Unlock Opportunities Instantly_
 
